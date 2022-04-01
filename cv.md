@@ -108,4 +108,5 @@ function arrayDiff(a, b) {
 * Ukrainian - native speaker
 * English - B2 
 * German - A2
+
 Practiced in English and German while traveling abroad.
